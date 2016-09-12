@@ -20,4 +20,8 @@ if a > b:
 ```
 
 ##Conditionals
-*
+* expressions
+*Branching
+
+Functions
+Anything you want 
