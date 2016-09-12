@@ -5,7 +5,7 @@
 ```
 def my_variable(a):
 ```
-  * to use a variable, plug it in to the problem you are tryin to solve. For Example:
+  * to use a variable, plug it in to the problem you are trying to solve. For Example:
   ```
 def my_variable(a,b):
 if a > b:
