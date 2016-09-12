@@ -1,23 +1,8 @@
-# beginner-python
+# Introduction of Python
 
-## Grocery List
-
-* Peaches
-* Flaming Hot Cheetos
-* Strawberries
-* Ben and Jerry's
-* Diet Coke
-
-This is 'a variable name'.
-
+## Variables
+  * to assign a variable, you must first define it. For Example:
 ```
-$ python run.py
+def my_variable(a):
 ```
-
-```
-def my_function(a):
-  return a + 10
-
-```
-
-```
+  * to use a variable, 
