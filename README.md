@@ -55,13 +55,3 @@ if a + b = c
 
 print my_variable(2, 3, 5)
 ```
-
-
-
-
-
-()
-*Branching
-
-Functions
-Anything you want
